@@ -1,0 +1,30 @@
+[submodule "password_manager_react"]
+	path = password_manager_react
+	url = https://github.com/seyoonPuvi/password_manager_react.git
+[submodule "MatchGame-react"]
+	path = MatchGame-react
+	url = https://github.com/seyoonPuvi/MatchGame-react.git
+[submodule "Routing-Practise"]
+	path = Routing-Practise
+	url = https://github.com/seyoonPuvi/Routing-Practise.git
+[submodule "react-routing-practice2"]
+	path = react-routing-practice2
+	url = https://github.com/seyoonPuvi/react-routing-practice2.git
+[submodule "Blog-react"]
+	path = Blog-react
+	url = https://github.com/seyoonPuvi/Blog-react.git
+[submodule "cryptocurrencyTracker-react"]
+	path = cryptocurrencyTracker-react
+	url = https://github.com/seyoonPuvi/cryptocurrencyTracker-react.git
+[submodule "IPL-Dashboard--react"]
+	path = IPL-Dashboard--react
+	url = https://github.com/seyoonPuvi/IPL-Dashboard--react.git
+[submodule "NXT-Trends"]
+	path = NXT-Trends
+	url = https://github.com/seyoonPuvi/NXT-Trends.git
+[submodule "registration-form"]
+	path = registration-form
+	url = https://github.com/seyoonPuvi/registration-form.git
+[submodule "NXT-Trends-2"]
+	path = NXT-Trends-2
+	url = https://github.com/seyoonPuvi/NXT-Trends-2.git
