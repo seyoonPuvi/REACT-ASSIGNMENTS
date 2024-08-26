@@ -28,3 +28,6 @@
 [submodule "NXT-Trends-2"]
 	path = NXT-Trends-2
 	url = https://github.com/seyoonPuvi/NXT-Trends-2.git
+[submodule "Events"]
+	path = Events
+	url = https://github.com/seyoonPuvi/Events.git
