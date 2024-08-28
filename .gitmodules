@@ -31,3 +31,6 @@
 [submodule "Events"]
 	path = Events
 	url = https://github.com/seyoonPuvi/Events.git
+[submodule "git-popular-repo-app"]
+	path = git-popular-repo-app
+	url = https://github.com/seyoonPuvi/git-popular-repo-app.git
