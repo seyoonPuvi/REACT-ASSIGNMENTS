@@ -34,3 +34,6 @@
 [submodule "git-popular-repo-app"]
 	path = git-popular-repo-app
 	url = https://github.com/seyoonPuvi/git-popular-repo-app.git
+[submodule "NXT-Trends-Products"]
+	path = NXT-Trends-Products
+	url = https://github.com/seyoonPuvi/NXT-Trends-Products.git
