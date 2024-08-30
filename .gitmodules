@@ -37,3 +37,6 @@
 [submodule "NXT-Trends-Products"]
 	path = NXT-Trends-Products
 	url = https://github.com/seyoonPuvi/NXT-Trends-Products.git
+[submodule "NXT-Trends-4"]
+	path = NXT-Trends-4
+	url = https://github.com/seyoonPuvi/NXT-Trends-4.git
