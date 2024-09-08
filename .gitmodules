@@ -55,3 +55,6 @@
 [submodule "simple-prime-video-app"]
 	path = simple-prime-video-app
 	url = https://github.com/seyoonPuvi/simple-prime-video-app.git
+[submodule "simple-themeToggle-app"]
+	path = simple-themeToggle-app
+	url = https://github.com/seyoonPuvi/simple-themeToggle-app.git
